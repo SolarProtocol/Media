@@ -1,0 +1,18 @@
+
+--------------------Background--------------------
+Background color = #01030b
+Background accent = #e06a41
+
+--------------------Main site--------------------
+Text color = #fafafa
+Title color = #f67447
+button center color = #081429
+button border color = #d34715
+button light border color (most used) = #f67447
+Outer glow color = #e87147
+
+--------------------Footer--------------------
+
+Text color = #fafafa ( 65% opacity )
+Title color = #f67447
+Extra = #fafafa ( 50% opacity ) -> line and copyright info
